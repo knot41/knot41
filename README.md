@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![knot41's GitHub stats](https://github-readme-stats.vercel.app/api?username=knot41)
+
 <!--
 **knot41/knot41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
