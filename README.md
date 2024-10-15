@@ -1,7 +1,7 @@
 ## Hi there, I'm Cinjay👋
 
 ![knot41's GitHub stats](https://github-readme-stats.vercel.app/api?username=knot41&show_icons=true&theme=github_dark_dimmed)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=knot41&repo=github-readme-stats)](https://github.com/knot41/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=knot41&repo=knot41)](https://github.com/knot41/knot41)
 <!--
 **knot41/knot41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
