@@ -1,4 +1,4 @@
-## Hi there, I'm Cinjay!👋
+## Hi there, I'm Xinjie!👋
 
 <!-- 实现并排功能 -->
 <div style="display: flex; justify-content: space-between;">
